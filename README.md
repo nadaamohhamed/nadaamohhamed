@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadaamohhamed&label=Profile%20views&color=0e75b6&style=flat" alt="nadaamohhamed" /> </p>
 
-- 🌱 I’m currently learning **problem solving**
-
-- 📫 How to reach me **naddaa26@gmail.com**
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"  alt="gif" width="290"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,9 +15,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Statistics:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadaamohhamed" alt="nadaamohhamed" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadaamohhamed&layout=donut" alt="nadaamohhamed" height="200" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadaamohhamed&show_icons=true" alt="nadaamohhamed" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadaamohhamed&show_icons=true" alt="nadaamohhamed" height="200" /></p>
 
 
 
