@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadaamohhamed&label=Profile%20views&color=0e75b6&style=flat" alt="nadaamohhamed" /> </p>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"  alt="gif" width="260"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"  alt="gif" width="235"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
