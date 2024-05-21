@@ -16,7 +16,7 @@
 <h3 align="left">Statistics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadaamohhamed&layout=donut&theme=github_dark" alt="nadaamohhamed" height="200" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadaamohhamed&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&count_private=true" alt="nadaamohhamed" height="200" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadaamohhamed&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark" alt="nadaamohhamed" height="200" /></p>
 
 
 
